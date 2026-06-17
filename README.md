@@ -206,9 +206,11 @@ Retrieve the top 2 most expensive matches while skipping the highest priced matc
 https://drive.google.com/file/d/1OIhl9vzAAelGUSOhvywU4Q-Yf_LxUTxq/view
 
 ### Github Repo Link
-
+https://github.com/DeveloperDishan/assignment-3
 
 ### Interview Video Link
+
+https://docs.google.com/document/d/1FUY0ecFtKheZpAKVVvUSwcPmQrIXgygkTIB60Ofcai4/edit?usp=sharing
 
 Add your public interview video link here.
 
